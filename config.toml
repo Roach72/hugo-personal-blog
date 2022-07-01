@@ -1,0 +1,4 @@
+baseURL = 'your-domain'
+relativeURLs = true
+languageCode = 'ar'
+title = 'صفحتي الشخصيه'
